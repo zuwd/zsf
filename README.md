@@ -3,7 +3,7 @@ ZSF Is A Script Used For ROBLOX Games, Generally For Sword Fighting. ZSF Was Cre
 
 # Modules;
 
-> Kill Say
-> Attach
-> Speed
-> Aura
+- Kill Say
+- Attach
+- Speed
+- Aura
